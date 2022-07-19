@@ -1,6 +1,6 @@
-Hello Everyone,\n
+Hello Everyone,
 
-This is Sajal Kumar Singh.\n
+This is Sajal Kumar Singh.
 
 I'm learning one click deployment.
 
