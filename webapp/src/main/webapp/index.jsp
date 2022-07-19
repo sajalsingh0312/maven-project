@@ -1,1 +1,7 @@
-Hello, Welcome to great leaders from Bangalore and Tumkur
+Hello Everyone,
+
+This is Sajal Kumar Singh.
+
+I'm learning one click deployment.
+
+
